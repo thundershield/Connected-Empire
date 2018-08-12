@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connected Empire", "Connected Empire.csproj", "{0E603961-FB03-B79C-43B3-5486A6BE4CA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connected Empire.Editor", "Connected Empire.Editor.csproj", "{252E6E3A-1E99-1E69-0748-33570AEBF99B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E603961-FB03-B79C-43B3-5486A6BE4CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E603961-FB03-B79C-43B3-5486A6BE4CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E603961-FB03-B79C-43B3-5486A6BE4CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E603961-FB03-B79C-43B3-5486A6BE4CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252E6E3A-1E99-1E69-0748-33570AEBF99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252E6E3A-1E99-1E69-0748-33570AEBF99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252E6E3A-1E99-1E69-0748-33570AEBF99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252E6E3A-1E99-1E69-0748-33570AEBF99B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

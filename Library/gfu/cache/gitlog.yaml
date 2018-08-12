@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-08-12T15:48:11.016-07:00
+  initializedAtString: 2018-08-12T15:11:46.355-07:00
+  log:
+  - commitID: beafb547cd69551339739a1e3ab36083af1a36bd
+    mergeA: 
+    mergeB: 
+    authorName: KylePrewitt
+    authorEmail: chemky2000@outlook.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Delete .gitattributes
+    description: Delete .gitattributes
+    timeString: 2018-08-12T15:10:36.000-07:00
+    commitTimeString: 2018-08-12T15:10:36.000-07:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\Kyle\Desktop\Unity\Connected Empire\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 04dcb804610acbae9075880ca7da1c02ac5807f2
+    mergeA: 
+    mergeB: 
+    authorName: KylePrewitt
+    authorEmail: chemky2000@outlook.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Delete .gitignore
+    description: Delete .gitignore
+    timeString: 2018-08-12T15:10:24.000-07:00
+    commitTimeString: 2018-08-12T15:10:24.000-07:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\Kyle\Desktop\Unity\Connected Empire\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 2165c62cc128f93815994b1c840e4f93a95d92f0
+    mergeA: 
+    mergeB: 
+    authorName: KylePrewitt
+    authorEmail: chemky2000@outlook.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Delete .gitignore
+    description: Delete .gitignore
+    timeString: 2018-08-12T15:00:16.000-07:00
+    commitTimeString: 2018-08-12T15:00:16.000-07:00
+    changes:
+    - path: Assets\.gitignore
+      fullPath: C:\Users\Kyle\Desktop\Unity\Connected Empire\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: fd2b62f4a47dd0f978652fc05720c7434a573a0e
+    mergeA: 67d972fa6b3966386174611c9118bbb5fb20500c
+    mergeB: 0cb527f8d459e95d5ee89615ce0ee26c7fa239ce
+    authorName: KylePrewitt
+    authorEmail: chemky2000@gmail.com
+    commitEmail: chemky2000@gmail.com
+    commitName: KylePrewitt
+    summary: Merge branch 'master' of https://github.com/thundershield/Connected-Empire
+    description: Merge branch 'master' of https://github.com/thundershield/Connected-Empire
+    timeString: 2018-08-12T14:47:28.000-07:00
+    commitTimeString: 2018-08-12T14:47:28.000-07:00
+    changes: []
+  - commitID: 0cb527f8d459e95d5ee89615ce0ee26c7fa239ce
+    mergeA: 
+    mergeB: 
+    authorName: Thundershield
+    authorEmail: thundershield3@gmial.co
+    commitEmail: thundershield3@gmial.co
+    commitName: Thundershield
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-08-12T14:17:33.000-07:00
+    commitTimeString: 2018-08-12T14:17:33.000-07:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\Kyle\Desktop\Unity\Connected Empire\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: C:\Users\Kyle\Desktop\Unity\Connected Empire\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\Kyle\Desktop\Unity\Connected Empire\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 67d972fa6b3966386174611c9118bbb5fb20500c
+    mergeA: 
+    mergeB: 
+    authorName: KylePrewitt
+    authorEmail: chemky2000@gmail.com
+    commitEmail: chemky2000@gmail.com
+    commitName: KylePrewitt
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-08-12T14:11:58.000-07:00
+    commitTimeString: 2018-08-12T14:11:58.000-07:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\Kyle\Desktop\Unity\Connected Empire\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: C:\Users\Kyle\Desktop\Unity\Connected Empire\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\Kyle\Desktop\Unity\Connected Empire\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0

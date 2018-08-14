@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-08-12T15:48:10.971-07:00
-  initializedAtString: 2018-08-12T15:11:46.329-07:00
+  lastUpdatedAtString: 2018-08-13T19:12:33.572-07:00
+  initializedAtString: 2018-08-13T19:12:33.572-07:00
   currentGitRemote:
     name: origin
     url: https://github.com/thundershield/Connected-Empire.git
@@ -34,4 +34,4 @@ MonoBehaviour:
   currentConfigRemote:
     name: origin
     url: https://github.com/thundershield/Connected-Empire.git
-  currentHead: beafb54
+  currentHead: 04220b8
